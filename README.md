@@ -20,7 +20,8 @@
 发布一个npm包的主要版本
 
 ## Installation
-运用此模板编写npm包，再发布之前完善安装命令
+运用此模板编写npm包，再发布之前完善安装命令。
+
 `npm install ***`
 
 ## MIT Licenced
